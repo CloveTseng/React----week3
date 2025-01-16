@@ -1,5 +1,6 @@
+import Login from './pages/Login';
 const App = () => {
-  return <h4>有導入字體、bootstrap、axios、gh-pages 的樣版</h4>;
+  return <Login />;
 };
 
 export default App;
